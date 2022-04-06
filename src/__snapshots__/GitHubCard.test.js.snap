@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "justifyContent": "center",
+    }
+  }
+>
+  <div
+    className="card bg-secondary"
+    style={
+      Object {
+        "width": "25rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="https://avatars.githubusercontent.com/u/89557567?v=4"
+      style={
+        Object {
+          "width": "25rem",
+        }
+      }
+    />
+    <div
+      className="card-body"
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <div
+        className="card-title h5"
+        style={
+          Object {
+            "color": "blanchedalmond",
+            "fontFamily": "arial",
+            "fontSize": "30px",
+            "textAlign": "center",
+          }
+        }
+      >
+        Benjamin Froehlich
+      </div>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "blanchedalmond",
+            "fontFamily": "arial",
+            "fontSize": "15px",
+            "fontWeight": "normal",
+            "textAlign": "center",
+          }
+        }
+      >
+        I am currently a student in the KSU Full Stack Web Development Program and I am excited to get to the deployment phase of my new career.
+      </p>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <a
+          className="btn btn-info"
+          disabled={false}
+          href="https://github.com/bdfroehlich"
+          onClick={[Function]}
+          onKeyDown={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          Visit my GitHub
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
